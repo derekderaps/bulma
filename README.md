@@ -89,6 +89,7 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 | [Bulma Templates](https://github.com/dansup/bulma-templates)                       | Free Templates for Bulma                       |
 | [React Bulma Components](https://github.com/couds/react-bulma-components)          | Another React wrap on React for Bulma.io                           |
 | [purescript-bulma](https://github.com/sectore/purescript-bulma)                    | PureScript bindings for Bulma                                      |
+| [Drupal integration](https://www.drupal.org/project/bulma)                         | Drupal theme that adds Bulma CSS and component templates       |
 
 ## Copyright and license
 
